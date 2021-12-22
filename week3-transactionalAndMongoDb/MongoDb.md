@@ -8,6 +8,8 @@ NoSQL sistemlerin avantajlarına değinmek gerekirse ilk olarak performans göst
 
 Ayrıca eklemekte fayda var ki günümüzde Büyük Veri alanında yapılan çalışmalarda NoSQL sistemler yoğun olarak kullanılmaktadır.
 
+![https://github.com/furkanyesilyurt/n11-java-bootcamp/blob/main/week3-transactionalAndMongoDb/mongodb.png](https://github.com/furkanyesilyurt/n11-java-bootcamp/blob/main/week3-transactionalAndMongoDb/mongodb.png)
+
 ### Dezavantajları
 
 MongoDB performans olarak MySQL, Oracle ve SQL Server gibi veritabanlarından hızlı olsa da kuralları ve standardı olmadığından dolayı verilerin önemli olduğu uygulamalarda kullanılmaması veya kullanılırken dikkatli olunması gerekir.
