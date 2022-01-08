@@ -41,7 +41,7 @@ ____________________________________
 
 ## Transaction Özellikleri
 
-![](https://github.com/furkanyesilyurt/n11-java-bootcamp/tree/main/week3-transactionalAndMongoDb/transaction.png)
+![](https://github.com/furkanyesilyurt/n11-java-bootcamp/blob/08ff6aecfc31916f9abdfc6c978eae7dd1dfa148/week3-transactionalAndMongoDb/transaction.png)
 
 ### A.Propagation 
 Bu özellik ile yeni bir transaction açılıp açılmayacağına, mevcut bir transaction var ise kullanılıp kullanılmayacağına kara verilmesine sağlar.Bu kararı da yukarıda şemadaki parametrelere göre sağlar.
