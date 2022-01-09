@@ -25,7 +25,7 @@ Simple Web Token (SWT) ya da Security Assertion Markup Language (SAML) gibi stan
 
 JWT ile üretilen token Base64 ile kodlanmış 3 ana kısımdan oluşmaktadır. Bunlar Header(Başlık), Payload(Veri), Signature(İmza) kısımlarıdır.
 
-![]()
+![](https://github.com/furkanyesilyurt/n11-java-bootcamp/blob/0902f48beabac7d5d89ab37fcb8a37fb669f270a/week4-jwt/jwtio.PNG)
 
 ```json
 {
